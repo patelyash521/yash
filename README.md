@@ -1,4 +1,4 @@
 # yash
 this is my first repo.
 <br>
-author = Yash123patel123
+author = Yash123patel
